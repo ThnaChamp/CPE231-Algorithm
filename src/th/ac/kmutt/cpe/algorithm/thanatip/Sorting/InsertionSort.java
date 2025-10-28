@@ -1,10 +1,10 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Sorting;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class InsertionSort<T extends Comparable<T>> implements SortStrategy<T> {
 
-    public void sort(ArrayList<T> list, int l, int u) {
+    public void sort(List<T> list, int nula, int nulb) {
         int j;
         T v;
         for (int i = 1; i < list.size(); i++) {

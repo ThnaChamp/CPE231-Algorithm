@@ -3,7 +3,7 @@ package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 import java.util.Scanner;
 import th.ac.kmutt.cpe.algorithm.thanatip.Permutation.*;
 
-public class Prac1_NextPermutation {
+public class P01_NextPermutation {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -11,5 +11,6 @@ public class Prac1_NextPermutation {
         Permutation list = new Lexicographic(n);
         list.Solve(null);
         System.out.println("List: " + list.printAllList());
+        sc.close();
     }
 }

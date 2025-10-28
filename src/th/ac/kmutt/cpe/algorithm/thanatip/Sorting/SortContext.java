@@ -1,6 +1,6 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Sorting;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class SortContext<T extends Comparable<T>> {
 
@@ -14,7 +14,7 @@ public class SortContext<T extends Comparable<T>> {
         this.strategy = strategy;
     }
 
-    public void executeSort(ArrayList<T> list, int l, int u) {
+    public void executeSort(List<T> list, int l, int u) {
         strategy.sort(list, l, u);
     }
 }

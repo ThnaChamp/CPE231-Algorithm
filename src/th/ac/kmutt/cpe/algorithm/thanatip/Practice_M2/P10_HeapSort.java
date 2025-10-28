@@ -1,5 +1,5 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
-public class Prac6_QuickSort {
-
+public class P10_HeapSort {
+    
 }

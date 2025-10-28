@@ -1,8 +1,8 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Sorting;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public interface SortStrategy<T extends Comparable<T>> {
 
-    public void sort(ArrayList<T> list , int l, int u);
+    public void sort(List<T> list , int l, int u);
 }

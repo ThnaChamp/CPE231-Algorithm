@@ -1,10 +1,9 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Permutation.Lexicographic;
-import th.ac.kmutt.cpe.algorithm.thanatip.Permutation.Permutation;
+import th.ac.kmutt.cpe.algorithm.thanatip.Permutation.*;
 
-public class Prac2_Android {
+public class P02_Android {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -24,5 +23,6 @@ public class Prac2_Android {
             Permutation list = new Lexicographic(n);
             list.Solve(allPasswordList.get(i));
         }
+        sc.close();
     }
 }
