@@ -18,7 +18,7 @@ public class P07_2DClosestPair {
         ClosestPair solve = new ClosestPair();
         double ans = solve.solve(coorList);
         System.out.printf("%.3f",ans);
-        
+        sc.close();
     }
 
 }

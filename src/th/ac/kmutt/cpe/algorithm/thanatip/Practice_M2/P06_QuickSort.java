@@ -16,5 +16,6 @@ public class P06_QuickSort {
         QuickSort solve = new QuickSort();
         solve.sort(list);
         System.out.println("List: " + list);
+        sc.close();
     }
 }
