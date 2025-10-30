@@ -9,7 +9,6 @@ public class P10_HeapSort {
         Scanner sc = new Scanner(System.in);
         List<Integer> list = new ArrayList<>();
         int n = sc.nextInt();
-        // list.add(null);
         for (int i = 0; i < n; i++) {
             int m = sc.nextInt();
             list.add(m);
@@ -22,5 +21,6 @@ public class P10_HeapSort {
 
         System.out.println(withoutSortList);
         System.out.print(list);
+        sc.close();
     }
 }

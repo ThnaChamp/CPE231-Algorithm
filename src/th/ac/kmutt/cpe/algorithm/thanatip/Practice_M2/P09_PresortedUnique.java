@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.ElementUnique.PresortElementUniqueness;
+import th.ac.kmutt.cpe.algorithm.thanatip.ElementUnique.PresortElementUnique;
 
 public class P09_PresortedUnique {
 
@@ -13,7 +13,7 @@ public class P09_PresortedUnique {
             int m = sc.nextInt();
             list.add(m);
         }
-        PresortElementUniqueness newList = new PresortElementUniqueness();
+        PresortElementUnique newList = new PresortElementUnique();
         newList.solve(list);
         System.out.println("List: " + list);
         sc.close();
