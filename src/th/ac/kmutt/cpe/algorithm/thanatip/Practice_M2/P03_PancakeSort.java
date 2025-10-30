@@ -2,8 +2,8 @@ package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sorting.PancakeSort;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sorting.SortContext;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sorting.PancakeSort;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sorting.SortContext;
 
 public class P03_PancakeSort {
 

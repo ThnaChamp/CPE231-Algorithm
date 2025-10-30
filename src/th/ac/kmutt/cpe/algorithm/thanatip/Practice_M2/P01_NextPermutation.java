@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.Scanner;
-import th.ac.kmutt.cpe.algorithm.thanatip.Permutation.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Permutation.*;
 
 public class P01_NextPermutation {
 

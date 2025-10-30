@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sorting.HeapSort;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sorting.HeapSort;
 
 public class P10_HeapSort {
 

@@ -1,8 +1,8 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sorting.BottomUpMergeSort;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sorting.SortContext;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sorting.BottomUpMergeSort;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sorting.SortContext;
 
 public class P05_MergeSort {
 

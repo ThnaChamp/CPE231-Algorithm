@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.ElementUnique.PresortElementUnique;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.ElementUnique.PresortElementUnique;
 
 public class P09_PresortedUnique {
 

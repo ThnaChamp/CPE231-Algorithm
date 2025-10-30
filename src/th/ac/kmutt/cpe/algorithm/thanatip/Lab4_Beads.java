@@ -2,7 +2,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Searching.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Searching.*;
 
 public class Lab4_Beads {
 

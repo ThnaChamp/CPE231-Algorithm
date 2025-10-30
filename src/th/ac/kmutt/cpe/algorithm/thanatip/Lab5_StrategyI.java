@@ -2,8 +2,8 @@ package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.io.*;
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Fee.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Searching.ForLab5.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Searching.LinearSearchForLab5;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Fee.*;
 
 public class Lab5_StrategyI {
 

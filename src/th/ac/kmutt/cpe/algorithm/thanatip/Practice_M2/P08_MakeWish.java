@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sum.Kadane;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sum.Kadane;
 
 public class P08_MakeWish {
 

@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Sorting.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sorting.*;
 
 public class Main {
 

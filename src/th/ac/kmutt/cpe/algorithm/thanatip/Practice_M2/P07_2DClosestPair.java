@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip.Practice_M2;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.ClosetPair.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.ClosetPair.*;
 
 public class P07_2DClosestPair {
 

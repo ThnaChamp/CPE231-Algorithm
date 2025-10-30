@@ -2,8 +2,8 @@ package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.io.*;
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.BinPacking.*;
 import th.ac.kmutt.cpe.algorithm.thanatip.CheckTime.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.BinPacking.*;
 
 public class Lab7_StrategyIII {
 
