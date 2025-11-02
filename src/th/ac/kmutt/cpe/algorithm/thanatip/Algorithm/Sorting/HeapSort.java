@@ -44,7 +44,7 @@ public class HeapSort {
         list.set(k - 1, v);
     }
 
-    public void sort(List<Integer> list, int k, int n, boolean sort) {
+    public void sortDecreasing(List<Integer> list, int k, int n, boolean sort) {
         for (int i = n / 2; i >= 1; i--) {
             minHeapBottomUp(list, i, n);
         }
@@ -52,6 +52,18 @@ public class HeapSort {
             for (int i = n; i >= 2; i--) {
                 Collections.swap(list, 0, i - 1);
                 minHeapBottomUp(list, 1, i - 1);
+            }
+        }
+    }
+
+    public void sortIncreasing(List<Integer> list, int k, int n, boolean sort) {
+        for (int i = n / 2; i >= 1; i--) {
+            maxHeapBottomUp(list, i, n);
+        }
+        if (sort) {
+            for (int i = n; i >= 2; i--) {
+                Collections.swap(list, 0, i - 1);
+                maxHeapBottomUp(list, 1, i - 1);
             }
         }
     }
