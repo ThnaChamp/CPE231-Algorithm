@@ -1,4 +1,4 @@
-package th.ac.kmutt.cpe.algorithm.thanatip.Dynamic.EOD;
+package th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Dynamic.EOD;
 
 public class EOD {
 

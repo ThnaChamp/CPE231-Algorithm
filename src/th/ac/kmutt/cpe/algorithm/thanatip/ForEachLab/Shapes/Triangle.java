@@ -1,4 +1,4 @@
-package th.ac.kmutt.cpe.algorithm.thanatip.Shapes;
+package th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Shapes;
 
 public class Triangle extends Shape {
 

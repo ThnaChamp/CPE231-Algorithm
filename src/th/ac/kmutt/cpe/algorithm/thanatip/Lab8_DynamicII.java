@@ -2,7 +2,7 @@ package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-import th.ac.kmutt.cpe.algorithm.thanatip.Dynamic.Jaothi.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Dynamic.Jaothi.*;
 
 public class Lab8_DynamicII {
 

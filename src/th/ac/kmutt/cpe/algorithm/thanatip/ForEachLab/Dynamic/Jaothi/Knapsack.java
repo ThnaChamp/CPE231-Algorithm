@@ -1,6 +1,7 @@
-package th.ac.kmutt.cpe.algorithm.thanatip.Dynamic.Jaothi;
+package th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Dynamic.Jaothi;
 
 import java.util.ArrayList;
+
 
 public class Knapsack {
 

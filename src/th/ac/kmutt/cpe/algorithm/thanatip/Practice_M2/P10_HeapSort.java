@@ -16,8 +16,8 @@ public class P10_HeapSort {
         HeapSort solve = new HeapSort();
         List<Integer> withoutSortList = new ArrayList<>(list);
 
-        solve.sortDecreasing(list, 1, list.size(), true);
-        solve.sortDecreasing(withoutSortList, 1, list.size(), false);
+        solve.sortDecreasing(list, list.size(), true);
+        solve.sortDecreasing(withoutSortList, list.size(), false);
 
         System.out.println(withoutSortList);
         System.out.print(list);

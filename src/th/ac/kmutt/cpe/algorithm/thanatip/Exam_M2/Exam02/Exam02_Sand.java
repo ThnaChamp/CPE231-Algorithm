@@ -1,8 +1,6 @@
-package th.ac.kmutt.cpe.algorithm.thanatip.Exam_M2;
+package th.ac.kmutt.cpe.algorithm.thanatip.Exam_M2.Exam02;
 
 import java.util.*;
-
-import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Sum.*;
 
 public class Exam02_Sand {
     public static void main(String[] args) {

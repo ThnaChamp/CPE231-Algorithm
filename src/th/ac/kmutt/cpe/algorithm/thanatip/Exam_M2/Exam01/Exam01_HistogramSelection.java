@@ -1,7 +1,6 @@
-package th.ac.kmutt.cpe.algorithm.thanatip.Exam_M2;
+package th.ac.kmutt.cpe.algorithm.thanatip.Exam_M2.Exam01;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Algorithm.Selection.HistogramSelect;
 
 public class Exam01_HistogramSelection {
     public static void main(String[] args) {

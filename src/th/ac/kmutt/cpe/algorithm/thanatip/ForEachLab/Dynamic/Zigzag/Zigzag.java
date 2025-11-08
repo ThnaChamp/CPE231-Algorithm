@@ -1,4 +1,4 @@
-package th.ac.kmutt.cpe.algorithm.thanatip.Dynamic.Zigzag;
+package th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Dynamic.Zigzag;
 
 public class Zigzag {
 

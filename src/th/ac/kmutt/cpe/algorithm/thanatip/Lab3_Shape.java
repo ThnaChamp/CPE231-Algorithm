@@ -2,7 +2,9 @@
 package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Shapes.*;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Shapes.Circle;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Shapes.Rectangle;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Shapes.Triangle;
 
 public class Lab3_Shape {
 

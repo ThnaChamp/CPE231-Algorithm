@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.util.*;
-import th.ac.kmutt.cpe.algorithm.thanatip.Dynamic.EOD.EOD;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Dynamic.EOD.*;
 
 public class Lab8_DynamicIII {
 

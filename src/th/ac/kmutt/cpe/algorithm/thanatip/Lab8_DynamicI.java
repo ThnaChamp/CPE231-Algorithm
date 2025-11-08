@@ -1,7 +1,7 @@
 package th.ac.kmutt.cpe.algorithm.thanatip;
 
 import java.util.Scanner;
-import th.ac.kmutt.cpe.algorithm.thanatip.Dynamic.Zigzag.Zigzag;
+import th.ac.kmutt.cpe.algorithm.thanatip.ForEachLab.Dynamic.Zigzag.Zigzag;
 
 public class Lab8_DynamicI {
 
